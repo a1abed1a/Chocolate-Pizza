@@ -1,0 +1,30 @@
+header{
+    margin-top: 25px;
+    padding: 0px 20px;
+}
+header section:nth-of-type(1){
+    display:  inline-flex ;
+}
+section div{
+    padding-left: 10px;
+}
+ul li{
+    display: inline-block;
+}
+ul li:nth-of-type(7){
+    padding-left: 18px;
+}
+h1{
+    font-size: 30px;
+}
+h5{
+    font-size: 10px;
+}
+header section:nth-of-type(2){
+    float: right;
+    padding-top: 10px;
+}
+hr{
+    height: 10px;
+    background-color: grey;
+}
